@@ -1,0 +1,9 @@
+// the keys in json file have double quote
+
+
+// Fetch - is used to make HTTP request to either your backend or API to get data
+
+
+// fetch - when done fetching it returns a promise; runs asycronously(runs in the background)
+
+//.then() - the way how we get the promise is by using the then.
